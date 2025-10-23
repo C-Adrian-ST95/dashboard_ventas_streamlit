@@ -1,2 +1,5 @@
 # dashboard_ventas_streamlit
-dashboard de ventas de empresa
+Dashboard de ventas de empresa
+
+* [Url-Dashboard de Ventas](https://dashboard-ventas-cast.streamlit.app/)
+* [Url-Datos Brutos](https://dashboard-ventas-cast.streamlit.app/Datos_brutos)
